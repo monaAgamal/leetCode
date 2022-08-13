@@ -14,10 +14,7 @@ class Solution {
         
     }
 
-static int findMax(int first, int last)
-{
-    return first>last ? first : last ;
-}
+ 
 
 }
 
